@@ -105,6 +105,6 @@ public class TestForGPIO extends Service{
                     }
                 }
             }
-        });
+        }).start();
     }
 }
